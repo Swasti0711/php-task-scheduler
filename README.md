@@ -81,11 +81,11 @@ chmod +x src/setup_cron.sh
 ./src/setup_cron.sh
 Testing Summary
 Feature	Status
-Add tasks	Implemented
-Prevent duplicate tasks	Implemented
-Complete/Delete tasks	Implemented
-Email subscription form	Implemented
-Email verification	Working
-Reminder email format	Verified
-Unsubscribe functionality	Functional
-JSON data storage	Verified
+Add tasks                   	Implemented
+Prevent duplicate tasks     	Implemented
+Complete/Delete tasks	       Implemented
+Email subscription form	     Implemented
+Email verification          	Working
+Reminder email format	       Verified
+Unsubscribe functionality	   Functional
+JSON data storage	           Verified
