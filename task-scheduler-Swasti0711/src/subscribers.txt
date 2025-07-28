@@ -1,0 +1,7 @@
+[
+    "swastiranjan@gmail.com",
+    "admin123@gmail.com",
+    "user1@gmail.com",
+    "rohitkumar@gmail.com",
+    "user34@gmail.com"
+]

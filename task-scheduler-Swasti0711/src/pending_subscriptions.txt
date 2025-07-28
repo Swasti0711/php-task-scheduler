@@ -1,0 +1,22 @@
+{
+    "swasti@example.com": {
+        "code": "915882",
+        "timestamp": 1751453629
+    },
+    "swasti@gmail.com": {
+        "code": "870337",
+        "timestamp": 1751453646
+    },
+    "swastihel@gmail.com": {
+        "code": "942442",
+        "timestamp": 1751453722
+    },
+    "swastiranjan555@gmail.com": {
+        "code": "435035",
+        "timestamp": 1751453808
+    },
+    "user123@gmail.com": {
+        "code": "736804",
+        "timestamp": 1751521184
+    }
+}
